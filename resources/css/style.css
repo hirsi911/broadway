@@ -14,7 +14,7 @@ h1 {
 }
 .button {
   color: white;
-  font-size: 18;
+  font-size: 18px;
 }
 .overview {
   color: black;
@@ -30,8 +30,8 @@ h3 {
   font-size: 14px;
 }
 footer {
-  font-size: 11px;
   color: white;
   text-align: left;
+  font-size: 11px;
   background-color: dimgray;
 }
