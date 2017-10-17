@@ -29,3 +29,9 @@ h3 {
 .explain {
   font-size: 14px;
 }
+footer {
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  background-color: dimgray;
+}
